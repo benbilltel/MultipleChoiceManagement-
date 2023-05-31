@@ -1,0 +1,60 @@
+C:\Self Learn\Nhom01\MChoice\bin\Debug\MChoice.exe.config
+C:\Self Learn\Nhom01\MChoice\bin\Debug\MChoice.exe
+C:\Self Learn\Nhom01\MChoice\bin\Debug\MChoice.pdb
+C:\Self Learn\Nhom01\MChoice\obj\Debug\MChoice.csproj.AssemblyReference.cache
+C:\Self Learn\Nhom01\MChoice\obj\Debug\MChoice.csproj.SuggestedBindingRedirects.cache
+C:\Self Learn\Nhom01\MChoice\obj\Debug\MChoice.Properties.Resources.resources
+C:\Self Learn\Nhom01\MChoice\obj\Debug\MChoice.csproj.GenerateResource.cache
+C:\Self Learn\Nhom01\MChoice\obj\Debug\MChoice.csproj.CoreCompileInputs.cache
+C:\Self Learn\Nhom01\MChoice\obj\Debug\MChoice.exe
+C:\Self Learn\Nhom01\MChoice\obj\Debug\MChoice.pdb
+C:\Self Learn\Nhom01\MChoice\obj\Debug\MChoice.GUI.FSubject.resources
+C:\Self Learn\Nhom01\MChoice\obj\Debug\MChoice.GUI.FClass.resources
+C:\Self Learn\Nhom01\MChoice\obj\Debug\MChoice.GUI.FQuizz.resources
+C:\Self Learn\Nhom01\MChoice\obj\Debug\MChoice.GUI.FStudent.resources
+C:\Self Learn\Nhom01\MChoice\obj\Debug\MChoice.GUI.FResult.resources
+C:\Self Learn\Nhom01\MChoice\obj\Debug\MChoice.GUI.FAdmin.resources
+C:\Self Learn\Nhom01\MChoice\obj\Debug\MChoice.GUI.FUser.resources
+C:\Self Learn\Nhom01\MChoice\obj\Debug\MChoice.GUI.FLogin.resources
+C:\Self Learn\Nhom01\MChoice\obj\Debug\MChoice.GUI.FStudentClient.resources
+C:\Self Learn\Nhom01\MChoice\obj\Debug\MChoice.GUI.FComp.resources
+C:\Users\buian\Downloads\Nhom01\Nhom01\MChoice\bin\Debug\MChoice.exe.config
+C:\Users\buian\Downloads\Nhom01\Nhom01\MChoice\bin\Debug\MChoice.exe
+C:\Users\buian\Downloads\Nhom01\Nhom01\MChoice\bin\Debug\MChoice.pdb
+C:\Users\buian\Downloads\Nhom01\Nhom01\MChoice\obj\Debug\MChoice.csproj.AssemblyReference.cache
+C:\Users\buian\Downloads\Nhom01\Nhom01\MChoice\obj\Debug\MChoice.csproj.SuggestedBindingRedirects.cache
+C:\Users\buian\Downloads\Nhom01\Nhom01\MChoice\obj\Debug\MChoice.GUI.FAdmin.resources
+C:\Users\buian\Downloads\Nhom01\Nhom01\MChoice\obj\Debug\MChoice.GUI.FClass.resources
+C:\Users\buian\Downloads\Nhom01\Nhom01\MChoice\obj\Debug\MChoice.GUI.FComp.resources
+C:\Users\buian\Downloads\Nhom01\Nhom01\MChoice\obj\Debug\MChoice.GUI.FLogin.resources
+C:\Users\buian\Downloads\Nhom01\Nhom01\MChoice\obj\Debug\MChoice.GUI.FQuizz.resources
+C:\Users\buian\Downloads\Nhom01\Nhom01\MChoice\obj\Debug\MChoice.GUI.FResult.resources
+C:\Users\buian\Downloads\Nhom01\Nhom01\MChoice\obj\Debug\MChoice.GUI.FStudent.resources
+C:\Users\buian\Downloads\Nhom01\Nhom01\MChoice\obj\Debug\MChoice.GUI.FStudentClient.resources
+C:\Users\buian\Downloads\Nhom01\Nhom01\MChoice\obj\Debug\MChoice.GUI.FSubject.resources
+C:\Users\buian\Downloads\Nhom01\Nhom01\MChoice\obj\Debug\MChoice.GUI.FUser.resources
+C:\Users\buian\Downloads\Nhom01\Nhom01\MChoice\obj\Debug\MChoice.Properties.Resources.resources
+C:\Users\buian\Downloads\Nhom01\Nhom01\MChoice\obj\Debug\MChoice.csproj.GenerateResource.cache
+C:\Users\buian\Downloads\Nhom01\Nhom01\MChoice\obj\Debug\MChoice.csproj.CoreCompileInputs.cache
+C:\Users\buian\Downloads\Nhom01\Nhom01\MChoice\obj\Debug\MChoice.exe
+C:\Users\buian\Downloads\Nhom01\Nhom01\MChoice\obj\Debug\MChoice.pdb
+C:\Users\hoan1\Downloads\Nhom01\Nhom01\MChoice\bin\Debug\MChoice.exe.config
+C:\Users\hoan1\Downloads\Nhom01\Nhom01\MChoice\bin\Debug\MChoice.exe
+C:\Users\hoan1\Downloads\Nhom01\Nhom01\MChoice\bin\Debug\MChoice.pdb
+C:\Users\hoan1\Downloads\Nhom01\Nhom01\MChoice\obj\Debug\MChoice.csproj.AssemblyReference.cache
+C:\Users\hoan1\Downloads\Nhom01\Nhom01\MChoice\obj\Debug\MChoice.csproj.SuggestedBindingRedirects.cache
+C:\Users\hoan1\Downloads\Nhom01\Nhom01\MChoice\obj\Debug\MChoice.GUI.FAdmin.resources
+C:\Users\hoan1\Downloads\Nhom01\Nhom01\MChoice\obj\Debug\MChoice.GUI.FClass.resources
+C:\Users\hoan1\Downloads\Nhom01\Nhom01\MChoice\obj\Debug\MChoice.GUI.FComp.resources
+C:\Users\hoan1\Downloads\Nhom01\Nhom01\MChoice\obj\Debug\MChoice.GUI.FLogin.resources
+C:\Users\hoan1\Downloads\Nhom01\Nhom01\MChoice\obj\Debug\MChoice.GUI.FQuizz.resources
+C:\Users\hoan1\Downloads\Nhom01\Nhom01\MChoice\obj\Debug\MChoice.GUI.FResult.resources
+C:\Users\hoan1\Downloads\Nhom01\Nhom01\MChoice\obj\Debug\MChoice.GUI.FStudent.resources
+C:\Users\hoan1\Downloads\Nhom01\Nhom01\MChoice\obj\Debug\MChoice.GUI.FStudentClient.resources
+C:\Users\hoan1\Downloads\Nhom01\Nhom01\MChoice\obj\Debug\MChoice.GUI.FSubject.resources
+C:\Users\hoan1\Downloads\Nhom01\Nhom01\MChoice\obj\Debug\MChoice.GUI.FUser.resources
+C:\Users\hoan1\Downloads\Nhom01\Nhom01\MChoice\obj\Debug\MChoice.Properties.Resources.resources
+C:\Users\hoan1\Downloads\Nhom01\Nhom01\MChoice\obj\Debug\MChoice.csproj.GenerateResource.cache
+C:\Users\hoan1\Downloads\Nhom01\Nhom01\MChoice\obj\Debug\MChoice.csproj.CoreCompileInputs.cache
+C:\Users\hoan1\Downloads\Nhom01\Nhom01\MChoice\obj\Debug\MChoice.exe
+C:\Users\hoan1\Downloads\Nhom01\Nhom01\MChoice\obj\Debug\MChoice.pdb
